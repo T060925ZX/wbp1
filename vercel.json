@@ -1,0 +1,14 @@
+{
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "https://buy.jry0.com/shop/WBP",
+      "permanent": true
+    },
+    {
+      "source": "/:path*",
+      "destination": "https://buy.jry0.com/shop/WBP",
+      "permanent": true
+    }
+  ]
+}
